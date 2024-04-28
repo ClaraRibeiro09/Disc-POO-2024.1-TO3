@@ -4,8 +4,8 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Listas de Exercícios da disciplina de Programação Orientada a Objetos
 
 - [Lista 03](https://github.com/ClaraRibeiro09/Disc-POO-2024.1-T01/tree/main/CAP-03):Os 15 primeiros Exercícios Resolvidos. <br>
- • Cap. 06 
- • Cap. 08
+ - Cap. 06 
+ - Cap. 08
 
 ##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Equipe:
 - Maria Clara Ribeiro
